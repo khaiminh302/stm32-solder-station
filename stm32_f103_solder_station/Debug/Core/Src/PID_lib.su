@@ -1,0 +1,4 @@
+PID_lib.c:18:6:PID_init	8	static
+PID_lib.c:28:6:PID_set_gain	32	static
+PID_lib.c:36:6:PID_set_clamp	24	static
+PID_lib.c:45:8:PID_compute	32	static
